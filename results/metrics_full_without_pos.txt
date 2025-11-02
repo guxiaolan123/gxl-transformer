@@ -1,0 +1,5 @@
+Model: full_without_pos
+Final Train Loss: 0.0301
+Final Val Loss: 0.0297
+Val Perplexity: 1.0301
+Val Accuracy: 0.9911
